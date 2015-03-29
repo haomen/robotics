@@ -10,8 +10,8 @@ function nn=findneighborNodes(node,srange)
     n=length(node);
     for i=1:n
         cnt=1;
-        for j=1:n
-            if(sqrt((node(i,1)-node(j,1)).^2+(node(i,2)-node(j,2)).^2)<srange)
+        for j=1:n 
+            if(sqrt((node(i,1)-node(j,1)).^2+(node(i,2)-node(j,2)).^2)<srange && i~=j)
                 nn(i,cnt)=j;
                 cnt=cnt+1;
             end

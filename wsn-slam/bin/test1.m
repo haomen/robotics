@@ -4,8 +4,8 @@
 % call node generation
 xmax=100;
 ymax=100;
-num=50;
-srange=15;
+num=80;
+srange=20;
 
 nodes=wsngeneration(xmax,ymax,num,srange);
 
@@ -13,4 +13,8 @@ nodes=wsngeneration(xmax,ymax,num,srange);
 nn=findneighborNodes(nodes,srange);
 
 % plot wsn
+close all;
 plotwsn(nodes,nn);
+
+% calculate measurements of every paird sensors
+nM=wsnMeasurement(nodes,nn,0);
