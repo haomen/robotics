@@ -3,7 +3,7 @@
 
 % plot wsn with neighbors
 
-function plotwsn(node,nn)
+function plotwsn(node,nn,xmax,ymax)
 
     
     figure;
@@ -26,5 +26,8 @@ function plotwsn(node,nn)
 
     grid on;
     axis equal;
+    xlabel('x');
+    ylabel('y');
+    axis([0 xmax 0 ymax]);
     
 end
