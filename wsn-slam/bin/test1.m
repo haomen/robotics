@@ -17,4 +17,4 @@ close all;
 plotwsn(nodes,nn,xmax,ymax);
 
 % % calculate measurements of every paird sensors
-% nM=wsnMeasurement(nodes,nn,0);
+nM=wsnMeasurement(nodes,nn,0);
