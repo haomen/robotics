@@ -20,8 +20,8 @@ function node=wsngeneration(xmax,ymax,n,srange,flag,noiseRatio)
     if (flag==0)
        disp('random wsn generation');
         for i=1:n
-            node(i,1)=rand(1,1)*xmax;
-            node(i,2)=rand(1,1)*ymax;
+            node(i,1)=rand(1)*xmax;
+            node(i,2)=rand(1)*ymax;
         end
     end
     
