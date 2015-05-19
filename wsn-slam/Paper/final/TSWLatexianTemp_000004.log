@@ -1,0 +1,950 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  18 MAY 2015 08:47
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/hao/Desktop/robotics/wsn-slam/Paper/final/TSWLatexianTemp_000004.tex
+(/Users/hao/Desktop/robotics/wsn-slam/Paper/final/TSWLatexianTemp_000004.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
+Document Class: IEEEtran 2012/12/27 V1.8 by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 368.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+** ATTENTION: Single column mode is not typically used with IEEE publications.
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEsubeqnnumrollback=\count90
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count91
+\@IEEEtranrubishbin=\box26
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count92
+\c@Blindtext=\count93
+\c@blind@countparstart=\count94
+\blind@countxx=\count95
+\blindtext@numBlindtext=\count96
+\blind@countyy=\count97
+\c@blindlist=\count98
+\c@blindlistlevel=\count99
+\c@blindlist@level=\count100
+\blind@listitem=\count101
+\c@blind@listcount=\count102
+\c@blind@levelcount=\count103
+\blind@mathformula=\count104
+\blind@Mathformula=\count105
+\c@blind@randomcount=\count106
+\c@blind@randommax=\count107
+\c@blind@pangramcount=\count108
+\c@blind@pangrammax=\count109
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+ (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count110
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen119
+)) (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen120
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count111
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count112
+\leftroot@=\count113
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count114
+\DOTSCASE@=\count115
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen121
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count116
+\c@MaxMatrixCols=\count117
+\dotsspace@=\muskip10
+\c@parentequation=\count118
+\dspbrk@lvl=\count119
+\tag@help=\toks17
+\row@=\count120
+\column@=\count121
+\maxfields@=\count122
+\andhelp@=\toks18
+\eqnshift@=\dimen122
+\alignsep@=\dimen123
+\tagshift@=\dimen124
+\tagwidth@=\dimen125
+\totwidth@=\dimen126
+\lineht@=\dimen127
+\@envbody=\toks19
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2014/texmf-dist/tex/latex/arydshln/arydshln.sty
+Package: arydshln 2004/08/31 v1.71 
+\dashlinedash=\dimen128
+\dashlinegap=\dimen129
+\adl@box=\box29
+\adl@height=\dimen130
+\adl@heightsave=\dimen131
+\adl@depth=\dimen132
+\adl@depthsave=\dimen133
+\adl@finaldepth=\dimen134
+\adl@columns=\count123
+\adl@ncol=\count124
+\adl@currentcolumn=\count125
+\adl@currentcolumnsave=\count126
+\adl@totalheight=\count127
+\adl@totalheightsave=\count128
+\adl@dash=\count129
+\adl@gap=\count130
+\adl@cla=\count131
+\adl@clb=\count132
+\adl@everyvbox=\toks21
+\adl@LTpagetotal=\dimen135
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 137.
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count133
+\float@exts=\toks22
+\float@box=\box30
+\@float@everytoks=\toks23
+\@floatcapt=\box31
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks24
+\c@algorithm=\count134
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count135
+\c@ALC@line=\count136
+\c@ALC@rem=\count137
+\c@ALC@depth=\count138
+\ALC@tlm=\skip47
+\algorithmicindent=\skip48
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks25
+\thm@bodyfont=\toks26
+\thm@headfont=\toks27
+\thm@notefont=\toks28
+\thm@headpunct=\toks29
+\thm@preskip=\skip49
+\thm@postskip=\skip50
+\thm@headsep=\skip51
+\dth@everypar=\toks30
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen136
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip52
+\subfigcapskip=\skip53
+\subfigcaptopadj=\dimen137
+\subfigbottomskip=\skip54
+\subfigcapmargin=\dimen138
+\subfiglabelskip=\skip55
+\c@subfigure=\count139
+\c@lofdepth=\count140
+\c@subtable=\count141
+\c@lotdepth=\count142
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2014/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip56
+\subfig@bottom=\skip57
+)
+\c@definition=\count143
+\c@remark=\count144
+\c@assumption=\count145
+\c@theorem=\count146
+\c@proposition=\count147
+\c@lemma=\count148
+\c@corollary=\count149
+
+
+LaTeX Warning: Unused global option(s):
+    [epsfig].
+
+No file TSWLatexianTemp_000004.aux.
+\openout1 = `TSWLatexianTemp_000004.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count150
+\scratchdimen=\dimen139
+\scratchbox=\box32
+\nofMPsegments=\count151
+\nofMParguments=\count152
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count153
+\MPscratchDim=\dimen140
+\MPnumerator=\count154
+\makeMPintoPDFobject=\count155
+\everyMPtoPDFconversion=\toks32
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+ (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+)) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+ (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+ (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+
+LaTeX Warning: Citation `jeong2000' on page 1 undefined on input line 62.
+
+
+LaTeX Warning: Citation `Buldyrev2009' on page 1 undefined on input line 62.
+
+
+LaTeX Warning: Citation `Akyildiz02' on page 1 undefined on input line 62.
+
+
+LaTeX Warning: Citation `Cao97' on page 1 undefined on input line 62.
+
+
+LaTeX Warning: Citation `Zaki2004' on page 1 undefined on input line 62.
+
+
+LaTeX Warning: Citation `DistCtrlRobotNetw' on page 1 undefined on input line 62.
+
+
+LaTeX Warning: Citation `Reich2011' on page 1 undefined on input line 62.
+
+
+LaTeX Warning: Citation `Kulaib' on page 1 undefined on input line 62.
+
+
+LaTeX Warning: Citation `Skowronski' on page 1 undefined on input line 64.
+
+
+LaTeX Warning: Citation `Niranjan' on page 1 undefined on input line 64.
+
+
+LaTeX Warning: Citation `Husken' on page 1 undefined on input line 64.
+
+
+LaTeX Warning: Citation `Ogata' on page 1 undefined on input line 64.
+
+
+LaTeX Warning: Citation `Smith' on page 1 undefined on input line 64.
+
+
+LaTeX Warning: Citation `Hopfield_1984' on page 1 undefined on input line 64.
+
+
+LaTeX Warning: Citation `zhangglobal' on page 1 undefined on input line 64.
+
+
+LaTeX Warning: Citation `Hopfield_1984' on page 1 undefined on input line 69.
+
+
+LaTeX Warning: Citation `Kennedy783' on page 1 undefined on input line 69.
+
+
+LaTeX Warning: Citation `Zhang2002271' on page 1 undefined on input line 69.
+
+
+LaTeX Warning: Citation `Xia122004' on page 1 undefined on input line 69.
+
+
+LaTeX Warning: Citation `Zhang03' on page 1 undefined on input line 69.
+
+
+LaTeX Warning: Citation `Liu06' on page 1 undefined on input line 69.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 69.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 69.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: Citation `Xia_2009' on page 1 undefined on input line 69.
+
+
+LaTeX Warning: Citation `Xia22008' on page 1 undefined on input line 69.
+
+
+LaTeX Warning: Citation `Jiang201297' on page 1 undefined on input line 69.
+
+
+LaTeX Warning: Citation `springerlinkliu' on page 1 undefined on input line 69.
+
+[1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Reference `formulateproblem' on page 2 undefined on input line 73.
+
+
+LaTeX Warning: Reference `theorey' on page 2 undefined on input line 73.
+
+
+LaTeX Warning: Reference `myla' on page 2 undefined on input line 73.
+
+
+LaTeX Warning: Reference `hardwareee' on page 2 undefined on input line 73.
+
+
+LaTeX Warning: Reference `simmm' on page 2 undefined on input line 73.
+
+
+LaTeX Warning: Reference `cons' on page 2 undefined on input line 73.
+
+
+LaTeX Warning: Reference `problem' on page 2 undefined on input line 83.
+
+
+LaTeX Warning: Citation `Doherty' on page 2 undefined on input line 83.
+
+
+LaTeX Warning: Citation `he2003' on page 2 undefined on input line 83.
+
+
+LaTeX Warning: Reference `myla' on page 2 undefined on input line 83.
+
+
+LaTeX Warning: Citation `Reich2011' on page 2 undefined on input line 83.
+
+
+LaTeX Warning: Citation `Hsieh2008' on page 2 undefined on input line 83.
+
+
+LaTeX Warning: Reference `problem' on page 2 undefined on input line 83.
+
+
+LaTeX Warning: Reference `problem' on page 2 undefined on input line 85.
+
+
+Overfull \hbox (20.0pt too wide) in alignment at lines 86--89
+ [][][] []
+ []
+
+
+LaTeX Warning: Citation `Boyd04' on page 2 undefined on input line 90.
+
+
+LaTeX Warning: Reference `problem1' on page 2 undefined on input line 90.
+
+
+LaTeX Warning: Reference `kkt22' on page 2 undefined on input line 102.
+
+
+LaTeX Warning: Reference `problem' on page 2 undefined on input line 120.
+
+
+LaTeX Warning: Reference `kkt1' on page 2 undefined on input line 120.
+
+
+LaTeX Warning: Reference `newkkt3' on page 2 undefined on input line 120.
+
+
+LaTeX Warning: Reference `kkt1' on page 2 undefined on input line 120.
+
+
+LaTeX Warning: Reference `newkkt3' on page 2 undefined on input line 120.
+
+
+LaTeX Warning: Reference `satur' on page 2 undefined on input line 125.
+
+
+LaTeX Warning: Reference `nnmodel' on page 2 undefined on input line 125.
+
+
+LaTeX Warning: Reference `nnmodel' on page 2 undefined on input line 137.
+
+
+LaTeX Warning: Reference `nnmodel' on page 2 undefined on input line 137.
+
+[2]
+
+LaTeX Warning: Reference `nnmodel' on page 3 undefined on input line 140.
+
+
+LaTeX Warning: Reference `problem' on page 3 undefined on input line 140.
+
+
+LaTeX Warning: Reference `nnmodel' on page 3 undefined on input line 140.
+
+
+LaTeX Warning: Reference `nnmodel' on page 3 undefined on input line 147.
+
+
+LaTeX Warning: Reference `nnmodelvector' on page 3 undefined on input line 170.
+
+
+LaTeX Warning: Reference `nnmodelvector' on page 3 undefined on input line 172.
+
+
+LaTeX Warning: Reference `nnmodelvector' on page 3 undefined on input line 172.
+
+
+LaTeX Warning: Reference `nnmodel' on page 3 undefined on input line 172.
+
+
+LaTeX Warning: Reference `nnmodelvector' on page 3 undefined on input line 172.
+
+
+LaTeX Warning: Reference `nnmodelvector' on page 3 undefined on input line 172.
+
+
+LaTeX Warning: Reference `nnmodel' on page 3 undefined on input line 172.
+
+
+LaTeX Warning: Reference `nnmodel' on page 3 undefined on input line 181.
+
+
+LaTeX Warning: Reference `problem' on page 3 undefined on input line 181.
+
+
+LaTeX Warning: Reference `nnmodel' on page 3 undefined on input line 188.
+
+
+LaTeX Warning: Reference `problem' on page 3 undefined on input line 188.
+
+
+LaTeX Warning: Reference `satur' on page 3 undefined on input line 198.
+
+
+LaTeX Warning: Reference `equ2' on page 3 undefined on input line 198.
+
+
+LaTeX Warning: Reference `sat1' on page 3 undefined on input line 207.
+
+
+LaTeX Warning: Reference `equ1' on page 3 undefined on input line 207.
+
+
+LaTeX Warning: Reference `problem1' on page 3 undefined on input line 207.
+
+
+LaTeX Warning: Reference `problem1' on page 3 undefined on input line 207.
+
+
+LaTeX Warning: Reference `problem' on page 3 undefined on input line 207.
+
+
+LaTeX Warning: Reference `problem1' on page 3 undefined on input line 207.
+
+
+LaTeX Warning: Reference `problem' on page 3 undefined on input line 207.
+
+
+LaTeX Warning: Citation `Xia2004' on page 3 undefined on input line 238.
+
+[3]
+
+LaTeX Warning: Reference `yousheng' on page 4 undefined on input line 239.
+
+
+LaTeX Warning: Reference `satur' on page 4 undefined on input line 245.
+
+
+LaTeX Warning: Reference `nnmodelvector' on page 4 undefined on input line 248.
+
+
+LaTeX Warning: Reference `yousheng' on page 4 undefined on input line 248.
+
+
+LaTeX Warning: Reference `nnmodel' on page 4 undefined on input line 252.
+
+
+LaTeX Warning: Reference `problem' on page 4 undefined on input line 252.
+
+
+LaTeX Warning: Reference `yousheng' on page 4 undefined on input line 256.
+
+
+LaTeX Warning: Reference `yousheng1' on page 4 undefined on input line 262.
+
+
+LaTeX Warning: Reference `otherlemma' on page 4 undefined on input line 262.
+
+
+LaTeX Warning: Reference `yousheng1' on page 4 undefined on input line 262.
+
+
+LaTeX Warning: Reference `yousheng1' on page 4 undefined on input line 262.
+
+
+LaTeX Warning: Reference `yousheng2' on page 4 undefined on input line 262.
+
+
+LaTeX Warning: Reference `yousheng2' on page 4 undefined on input line 267.
+
+
+LaTeX Warning: Reference `nnmodelvector' on page 4 undefined on input line 267.
+
+
+LaTeX Warning: Reference `nnmodelvector' on page 4 undefined on input line 267.
+
+
+LaTeX Warning: Reference `nnmodel' on page 4 undefined on input line 267.
+
+
+LaTeX Warning: Reference `lemma1' on page 4 undefined on input line 267.
+
+
+LaTeX Warning: Reference `nnmodel' on page 4 undefined on input line 267.
+
+
+LaTeX Warning: Reference `problem' on page 4 undefined on input line 267.
+
+
+LaTeX Warning: Reference `distributedmodel' on page 4 undefined on input line 272.
+
+
+LaTeX Warning: Citation `Balasubramaniam' on page 4 undefined on input line 276.
+
+
+LaTeX Warning: Citation `Chen2012' on page 4 undefined on input line 363.
+
+
+LaTeX Warning: Citation `Comsa7' on page 4 undefined on input line 363.
+
+
+LaTeX Warning: Citation `chenhy1' on page 4 undefined on input line 363.
+
+
+LaTeX Warning: Citation `Rong06' on page 4 undefined on input line 363.
+
+
+LaTeX Warning: Citation `HongyangChen3' on page 4 undefined on input line 363.
+
+
+LaTeX Warning: Citation `Martins' on page 4 undefined on input line 363.
+
+
+LaTeX Warning: Citation `Qingjiang10' on page 4 undefined on input line 363.
+
+
+LaTeX Warning: Citation `HongyangChen2' on page 4 undefined on input line 363.
+
+
+LaTeX Warning: Citation `Kulaib' on page 4 undefined on input line 363.
+
+
+LaTeX Warning: Citation `he2003' on page 4 undefined on input line 363.
+
+
+LaTeX Warning: Citation `Doherty' on page 4 undefined on input line 363.
+
+
+LaTeX Warning: Citation `Niculescu_Nath_2003' on page 4 undefined on input line 363.
+
+
+LaTeX Warning: Citation `he2003' on page 4 undefined on input line 363.
+
+
+LaTeX Warning: Citation `Niculescu_Nath_2003' on page 4 undefined on input line 363.
+
+[4]
+
+LaTeX Warning: Citation `Doherty' on page 5 undefined on input line 365.
+
+
+LaTeX Warning: Citation `Doherty' on page 5 undefined on input line 374.
+
+
+LaTeX Warning: Citation `Doherty' on page 5 undefined on input line 374.
+
+
+LaTeX Warning: Citation `Mao2007' on page 5 undefined on input line 374.
+
+
+LaTeX Warning: Citation `Biswas' on page 5 undefined on input line 374.
+
+
+LaTeX Warning: Citation `Shang:2003' on page 5 undefined on input line 374.
+
+
+LaTeX Warning: Reference `wsnm' on page 5 undefined on input line 374.
+
+
+LaTeX Warning: Reference `problem' on page 5 undefined on input line 374.
+
+
+LaTeX Warning: Reference `nnmodel' on page 5 undefined on input line 374.
+
+
+LaTeX Warning: Reference `problem' on page 5 undefined on input line 374.
+
+
+LaTeX Warning: Reference `wsnm' on page 5 undefined on input line 374.
+
+
+LaTeX Warning: Reference `problem' on page 5 undefined on input line 374.
+
+
+LaTeX Warning: Reference `problem' on page 5 undefined on input line 377.
+
+
+LaTeX Warning: Reference `wsnm' on page 5 undefined on input line 377.
+
+
+LaTeX Warning: Reference `problem' on page 5 undefined on input line 377.
+
+
+LaTeX Warning: Reference `problem' on page 5 undefined on input line 377.
+
+
+LaTeX Warning: Reference `nnmodel' on page 5 undefined on input line 386.
+
+
+LaTeX Warning: Reference `maintheoremabc' on page 5 undefined on input line 392.
+
+
+LaTeX Warning: Reference `nnmodelwsn' on page 5 undefined on input line 392.
+
+
+LaTeX Warning: Reference `nnmodelwsn' on page 5 undefined on input line 394.
+
+
+LaTeX Warning: Reference `wsnm' on page 5 undefined on input line 394.
+
+
+LaTeX Warning: Reference `maintheoremabc' on page 5 undefined on input line 397.
+
+
+LaTeX Warning: Reference `wsnm' on page 5 undefined on input line 400.
+
+
+Package pdftex.def Warning: Option `bb' does not make sense,
+(pdftex.def)                using `viewport' instead on input line 404.
+
+
+LaTeX Warning: File `mydraw1.pdf' not found on input line 404.
+
+
+/Users/hao/Desktop/robotics/wsn-slam/Paper/final/TSWLatexianTemp_000004.tex:404: Package pdftex.def Error: File `mydraw1.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.404 ...2\textwidth,bb=0 0 700 1000]{mydraw1.pdf}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 404.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [5]
+
+LaTeX Warning: Reference `architecture' on page 6 undefined on input line 412.
+
+[6]
+Package epstopdf Info: Source file: <xy.eps>
+(epstopdf)                    date: 2011-11-05 00:38:48
+(epstopdf)                    size: 25956 bytes
+(epstopdf)             Output file: <xy-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-18 08:47:38
+(epstopdf)                    size: 14732 bytes
+(epstopdf)             Command: <epstopdf --outfile=xy-eps-converted-to.pdf xy.eps>
+(epstopdf)             \includegraphics on input line 453.
+Package epstopdf Info: Output file is already uptodate.
+ <xy-eps-converted-to.pdf, id=35, 423.5825pt x 473.77pt>
+File: xy-eps-converted-to.pdf Graphic file (type pdf)
+ <use xy-eps-converted-to.pdf>
+Package pdftex.def Info: xy-eps-converted-to.pdf used on input line 453.
+(pdftex.def)             Requested size: 309.60315pt x 346.29742pt.
+
+
+LaTeX Warning: Reference `myex' on page 7 undefined on input line 455.
+
+Package epstopdf Info: Source file: <xye.eps>
+(epstopdf)                    date: 2011-11-05 00:45:26
+(epstopdf)                    size: 17128 bytes
+(epstopdf)             Output file: <xye-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-18 08:47:38
+(epstopdf)                    size: 13780 bytes
+(epstopdf)             Command: <epstopdf --outfile=xye-eps-converted-to.pdf xye.eps>
+(epstopdf)             \includegraphics on input line 460.
+Package epstopdf Info: Output file is already uptodate.
+<xye-eps-converted-to.pdf, id=36, 433.62pt x 488.82625pt>
+File: xye-eps-converted-to.pdf Graphic file (type pdf)
+ <use xye-eps-converted-to.pdf>
+Package pdftex.def Info: xye-eps-converted-to.pdf used on input line 460.
+(pdftex.def)             Requested size: 309.60315pt x 349.0382pt.
+
+
+LaTeX Warning: Reference `myex' on page 7 undefined on input line 462.
+
+Package epstopdf Info: Source file: <xtrans.eps>
+(epstopdf)                    date: 2011-11-05 00:32:06
+(epstopdf)                    size: 869257 bytes
+(epstopdf)             Output file: <xtrans-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-18 08:47:39
+(epstopdf)                    size: 151271 bytes
+(epstopdf)             Command: <epstopdf --outfile=xtrans-eps-converted-to.pdf xtrans.eps>
+(epstopdf)             \includegraphics on input line 467.
+Package epstopdf Info: Output file is already uptodate.
+<xtrans-eps-converted-to.pdf, id=37, 423.5825pt x 287.0725pt>
+File: xtrans-eps-converted-to.pdf Graphic file (type pdf)
+ <use xtrans-eps-converted-to.pdf>
+Package pdftex.def Info: xtrans-eps-converted-to.pdf used on input line 467.
+(pdftex.def)             Requested size: 309.60315pt x 209.83276pt.
+
+
+LaTeX Warning: Reference `myex' on page 7 undefined on input line 468.
+
+Package epstopdf Info: Source file: <ytrans.eps>
+(epstopdf)                    date: 2011-11-05 00:33:04
+(epstopdf)                    size: 874685 bytes
+(epstopdf)             Output file: <ytrans-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-18 08:47:40
+(epstopdf)                    size: 161927 bytes
+(epstopdf)             Command: <epstopdf --outfile=ytrans-eps-converted-to.pdf ytrans.eps>
+(epstopdf)             \includegraphics on input line 473.
+Package epstopdf Info: Output file is already uptodate.
+<ytrans-eps-converted-to.pdf, id=38, 423.5825pt x 287.0725pt>
+File: ytrans-eps-converted-to.pdf Graphic file (type pdf)
+ <use ytrans-eps-converted-to.pdf>
+Package pdftex.def Info: ytrans-eps-converted-to.pdf used on input line 473.
+(pdftex.def)             Requested size: 309.60315pt x 209.83276pt.
+
+
+LaTeX Warning: Reference `myex' on page 7 undefined on input line 474.
+
+
+LaTeX Warning: Reference `wsnm' on page 7 undefined on input line 478.
+
+Package epstopdf Info: Source file: <xy1.eps>
+(epstopdf)                    date: 2011-11-05 01:25:04
+(epstopdf)                    size: 62499 bytes
+(epstopdf)             Output file: <xy1-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-18 08:47:40
+(epstopdf)                    size: 30502 bytes
+(epstopdf)             Command: <epstopdf --outfile=xy1-eps-converted-to.pdf xy1.eps>
+(epstopdf)             \includegraphics on input line 483.
+Package epstopdf Info: Output file is already uptodate.
+<xy1-eps-converted-to.pdf, id=39, 433.62pt x 485.815pt>
+File: xy1-eps-converted-to.pdf Graphic file (type pdf)
+ <use xy1-eps-converted-to.pdf>
+Package pdftex.def Info: xy1-eps-converted-to.pdf used on input line 483.
+(pdftex.def)             Requested size: 309.60315pt x 346.88808pt.
+
+
+LaTeX Warning: Reference `hellow' on page 7 undefined on input line 485.
+
+Package epstopdf Info: Source file: <xye1.eps>
+(epstopdf)                    date: 2011-11-05 01:28:48
+(epstopdf)                    size: 27998 bytes
+(epstopdf)             Output file: <xye1-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-18 08:47:40
+(epstopdf)                    size: 26579 bytes
+(epstopdf)             Command: <epstopdf --outfile=xye1-eps-converted-to.pdf xye1.eps>
+(epstopdf)             \includegraphics on input line 490.
+Package epstopdf Info: Output file is already uptodate.
+<xye1-eps-converted-to.pdf, id=40, 433.62pt x 485.815pt>
+File: xye1-eps-converted-to.pdf Graphic file (type pdf)
+ <use xye1-eps-converted-to.pdf>
+Package pdftex.def Info: xye1-eps-converted-to.pdf used on input line 490.
+(pdftex.def)             Requested size: 309.60315pt x 346.88808pt.
+
+
+LaTeX Warning: Reference `hellow' on page 7 undefined on input line 492.
+
+Package epstopdf Info: Source file: <xtrans1.eps>
+(epstopdf)                    date: 2011-11-05 01:17:12
+(epstopdf)                    size: 2648205 bytes
+(epstopdf)             Output file: <xtrans1-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-18 08:47:41
+(epstopdf)                    size: 379264 bytes
+(epstopdf)             Command: <epstopdf --outfile=xtrans1-eps-converted-to.pdf xtrans1.eps>
+(epstopdf)             \includegraphics on input line 497.
+Package epstopdf Info: Output file is already uptodate.
+<xtrans1-eps-converted-to.pdf, id=41, 421.575pt x 317.185pt>
+File: xtrans1-eps-converted-to.pdf Graphic file (type pdf)
+ <use xtrans1-eps-converted-to.pdf>
+Package pdftex.def Info: xtrans1-eps-converted-to.pdf used on input line 497.
+(pdftex.def)             Requested size: 309.60315pt x 232.94182pt.
+
+
+LaTeX Warning: Reference `hellow' on page 7 undefined on input line 498.
+
+Package epstopdf Info: Source file: <ytrans1.eps>
+(epstopdf)                    date: 2011-11-05 01:18:02
+(epstopdf)                    size: 2639301 bytes
+(epstopdf)             Output file: <ytrans1-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-18 08:47:42
+(epstopdf)                    size: 81920 bytes
+(epstopdf)             Command: <epstopdf --outfile=ytrans1-eps-converted-to.pdf ytrans1.eps>
+(epstopdf)             \includegraphics on input line 503.
+Package epstopdf Info: Output file is already uptodate.
+
+!pdfTeX error: /usr/texbin/pdflatex (file ./ytrans1-eps-converted-to.pdf): xpdf: reading PDF image failed
+ ==> Fatal error occurred, no output PDF file produced!

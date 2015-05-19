@@ -1,0 +1,21 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: mainforneuralcomputing_ieee.aux
+The style file: unsrt.bst
+Database file #1: main111.bib
+I was expecting a `,' or a `}'---line 81 of file main111.bib
+ : 
+ : PAGES = {1500-1510},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 376 of file main111.bib
+ : 
+ : PAGES = {1479-1496},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 437 of file main111.bib
+ : 
+ : @INPROCEEDINGS{Montemayor05,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty year in Liu06
+Warning--empty publisher in springerlinkliu
+(There were 3 error messages)

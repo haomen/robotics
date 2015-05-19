@@ -1,0 +1,255 @@
+\begin{thebibliography}{10}
+
+\bibitem{jeong2000}
+H.~Jeong, B.~Tombor, R.~Albert, Z.N. Oltvai, and A.L. Barabasi.
+\newblock The large-scale organization of metabolic networks.
+\newblock {\em NATURE}, 407:651, 2000.
+
+\bibitem{Buldyrev2009}
+S.V. Buldyrev, R.~Parshani, G.~Paul, H.E. Stanley, and S.~Havlin.
+\newblock Catastrophic cascade of failures in interdependent networks.
+\newblock {\em Nature}, 464(7291):1025--1028, 2009.
+
+\bibitem{Akyildiz02}
+I.~F. Akyildiz, W.~Su, Y.~Sankarasubramaniam, and E.~Cayirci.
+\newblock Wireless sensor networks: a survey.
+\newblock {\em Computer Networks}, 38:393--422, 2002.
+
+\bibitem{Cao97}
+Y.U. Cao, A.S. Fukunaga, and A.B. Kahng.
+\newblock Cooperative mobile robotics: Antecedents and directions.
+\newblock {\em Autonomous Robots}, 4:226--234, 1997.
+
+\bibitem{Zaki2004}
+Mohammed~J Z., Vinay N., Deb B., and Chris B.
+\newblock Predicting protein folding pathways.
+\newblock {\em Bioinformatics}, 20(1):386--393, 2004.
+
+\bibitem{DistCtrlRobotNetw}
+F.~Bullo, J.~Cort\'es, and S.~Mart{\'\i}nez.
+\newblock {\em Distributed Control of Robotic Networks}.
+\newblock Applied Mathematics Series. Princeton University Press, 2009.
+\newblock Electronically available at http://coordinationbook.info.
+
+\bibitem{Reich2011}
+J.~Reich, V.~Misra, D.~Rubenstein, and G.~Zussman.
+\newblock Connectivity maintenance in mobile wireless networks via constrained
+  mobility.
+\newblock In {\em INFOCOM, 2011 Proceedings IEEE}, pages 927 --935, april 2011.
+
+\bibitem{Kulaib}
+A.R. Kulaib, R.M. Shubair, M.A. Al-Qutayri, and J.W.P. Ng.
+\newblock An overview of localization techniques for wireless sensor networks.
+\newblock In {\em Innovations in Information Technology (IIT), 2011
+  International Conference on}, pages 167 --172, april 2011.
+
+\bibitem{Skowronski}
+M.D. Skowronski and J.G. Harris.
+\newblock Noise-robust automatic speech recognition using a predictive echo
+  state network.
+\newblock {\em IEEE Transactions On Audio Speech And Language Processing},
+  15(5):1724--1730, 2007.
+
+\bibitem{Niranjan}
+B.~Niranjan, T.L. Burrows, and M.~Niranjan.
+\newblock The use of recurrent neural networks for classification.
+\newblock In {\em IEEE Workshop on Neural Networks for Signal Processing IV},
+  pages 117--125, 1994.
+
+\bibitem{Husken}
+M.~Husken and P.~Stagge.
+\newblock Recurrent neural networks for time series classification.
+\newblock {\em Neurocomputing}, 50:223--235, 2003.
+
+\bibitem{Ogata}
+T.~Ogata, S.~Nishide, H.~Kozima, K.~Komatani, and H.G. Okuno.
+\newblock Inter-modality mapping in robot with recurrent neural network.
+\newblock {\em Pattern Recognition Letters}, 31(12):1560--1569, 2010.
+
+\bibitem{Smith}
+K.A. Smith.
+\newblock Neural networks for combinatorial optimization: a review of more than
+  a decade of research.
+\newblock {\em INFORMS J. on Computing}, 11:15--34, January 1999.
+
+\bibitem{Hopfield_1984}
+J.~J. Hopfield.
+\newblock Neurons with graded response have collective computational properties
+  like those of two-state neurons.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  81(10):3088--3092, 1984.
+
+\bibitem{zhangglobal}
+Y.~Zhang, Y.~Shi, K.~Chen, and C.~Wang.
+\newblock Global exponential convergence and stability of gradient-based neural
+  network for online matrix inversion.
+\newblock {\em Applied Mathematics and Computation}, 215(3):1301 -- 1306, 2009.
+
+\bibitem{Kennedy783}
+M.P. Kennedy and L.O. Chua.
+\newblock Neural networks for nonlinear programming.
+\newblock {\em Circuits and Systems, IEEE Transactions on}, 35(5):554 --562,
+  may 1988.
+
+\bibitem{Zhang2002271}
+Y.~Zhang and J.~Wang.
+\newblock A dual neural network for convex quadratic programming subject to
+  linear equality and inequality constraints.
+\newblock {\em Physics Letters A}, 298(4):271 -- 278, 2002.
+
+\bibitem{Xia122004}
+Y.~Xia, G.~Feng, and J.~Wang.
+\newblock A recurrent neural network with exponential convergence for solving
+  convex quadratic program and related linear piecewise equations.
+\newblock {\em Neural Networks}, 17(7):1003--1015, September 2004.
+
+\bibitem{Zhang03}
+Y.~Zhang, J.~Wang, and Y.~Xia.
+\newblock A dual neural network for redundancy resolution of kinematically
+  redundant manipulators subject to joint limits and joint velocity limits.
+\newblock {\em IEEE Transactions on Neural Networks}, 14:658--667, 2003.
+
+\bibitem{Liu06}
+S.~Liu and J.~Wang.
+\newblock A simplified dual neural network for quadratic programming with its
+  kwta application.
+\newblock {\em IEEE Transactions on Neural Networks}.
+
+\bibitem{Xia_2009}
+Y.~Xia.
+\newblock A compact cooperative recurrent neural network for computing general
+  constrained l1 norm estimators.
+\newblock {\em IEEE Transactions on Signal Processing}, 57(9):3693--3697, 2009.
+
+\bibitem{Xia22008}
+Y.~Xia and D.~Ye.
+\newblock On exponential convergence conditions of an extended projection
+  neural network.
+\newblock {\em Neural Computation}, 20(9):2227--2237, September 2008.
+
+\bibitem{Jiang201297}
+S.~Jiang, D.~Han, and X.~Yuan.
+\newblock Efficient neural networks for solving variational inequalities.
+\newblock {\em Neurocomputing}, 86(0):97 -- 106, 2012.
+
+\bibitem{springerlinkliu}
+L.~Liu, R.~Ge, and P.~Gao.
+\newblock A novel neural network for solving singular nonlinear convex
+  optimization problems.
+\newblock In {\em Neural Information Processing}, volume 7063 of {\em Lecture
+  Notes in Computer Science}, pages 554--561. 2011.
+
+\bibitem{Doherty}
+L.~Doherty, K.S.J. pister, and E.L. Ghaoui.
+\newblock Convex position estimation in wireless sensor networks.
+\newblock In {\em INFOCOM 2001. Twentieth Annual Joint Conference of the IEEE
+  Computer and Communications Societies. Proceedings. IEEE}, volume~3, pages
+  1655 --1663 vol.3, 2001.
+
+\bibitem{he2003}
+T.~He, C.~Huang, Brian~M. Blum, J.A. Stankovic, and T.~Abdelzaher.
+\newblock Range-free localization schemes for large scale sensor networks.
+\newblock In {\em Proceedings of the 9th annual international conference on
+  Mobile computing and networking}, MobiCom '03, pages 81--95, New York, NY,
+  USA, 2003. ACM.
+
+\bibitem{Hsieh2008}
+M.~Ani Hsieh, A.~Cowley, V.~Kumar, and C.J. Taylor.
+\newblock Maintaining network connectivity and performance in robot teams.
+\newblock {\em Journal of Field Robotics}, 25(1-2):111--131, 2008.
+
+\bibitem{Boyd04}
+S.~Boyd and L.~Vandenberghe.
+\newblock {\em Convex Optimization}.
+\newblock Cambridge University Press, New York, NY, USA, 2004.
+
+\bibitem{Xia2004}
+Y.~Xia.
+\newblock An extended projection neural network for constrained optimization.
+\newblock {\em Neural Comput.}, 16:863--883, April 2004.
+
+\bibitem{Balasubramaniam}
+P.~Balasubramaniam and S.~Jeeva Sathya~Theesar Lakshmanan.
+\newblock State estimation for markovian jumping recurrent neural networks with
+  interval time-varying delays.
+\newblock {\em Nonlinear Dynamics}, 60:661--675, 2010.
+
+\bibitem{Chen2012}
+H.~Chen, B.~Liu, P.~Huang, J.~Liang, and Y.~Gu.
+\newblock Mobility-assisted node localization based on toa measurements without
+  time synchronization in wireless sensor networks.
+\newblock {\em Mob. Netw. Appl.}, 17(1):90--99, February 2012.
+
+\bibitem{Comsa7}
+C.-R. Comsa, J.~Luo, A.~Haimovich, and S.~Schwartz.
+\newblock Wireless localization using time difference of arrival in narrow-band
+  multipath systems.
+\newblock In {\em Signals, Circuits and Systems, 2007. ISSCS 2007.
+  International Symposium on}, volume~2, pages 1 --4, july 2007.
+
+\bibitem{chenhy1}
+H.~Chen, D.~Ping, Y.~Xu, and X.~Li.
+\newblock A novel localization scheme based on rss data for wireless sensor
+  networks.
+\newblock In {\em Advanced Web and Network Technologies, and Applications},
+  volume 3842 of {\em Lecture Notes in Computer Science}, pages 315--320.
+  Springer Berlin / Heidelberg, 2006.
+
+\bibitem{Rong06}
+P.~Rong and M.L. Sichitiu.
+\newblock Angle of arrival localization for wireless sensor networks.
+\newblock In {\em Sensor and Ad Hoc Communications and Networks, 2006. SECON
+  '06. 2006 3rd Annual IEEE Communications Society on}, volume~1, pages 374
+  --382, sept. 2006.
+
+\bibitem{HongyangChen3}
+H.~Chen, Q.~Shi, R.~Tan, H.V. Poor, and K.~Sezaki.
+\newblock Mobile element assisted cooperative localization for wireless sensor
+  networks with obstacles.
+\newblock {\em Wireless Communications, IEEE Transactions on}, 9(3):956 --963,
+  march 2010.
+
+\bibitem{Martins}
+M.H.T. Martins, H.~Chen, and K.~Sezaki.
+\newblock Otmcl: Orientation tracking-based monte carlo localization for mobile
+  sensor networks.
+\newblock In {\em Networked Sensing Systems (INSS), 2009 Sixth International
+  Conference on}, pages 1 --8, june 2009.
+
+\bibitem{Qingjiang10}
+Q.~Shi, C.~He, H.~Chen, and L.~Jiang.
+\newblock Distributed wireless sensor network localization via sequential
+  greedy optimization algorithm.
+\newblock {\em Signal Processing, IEEE Transactions on}, 58(6):3328 --3340,
+  june 2010.
+
+\bibitem{HongyangChen2}
+H.~Chen, M.H.T. Martins, P.~Huang, H.C. So, and K.~Sezaki.
+\newblock Cooperative node localization for mobile sensor networks.
+\newblock In {\em Embedded and Ubiquitous Computing, 2008. EUC '08. IEEE/IFIP
+  International Conference on}, volume~1, pages 302 --308, dec. 2008.
+
+\bibitem{Niculescu_Nath_2003}
+D.~Niculescu and B.~Nath.
+\newblock Dv based positioning in ad hoc networks.
+\newblock {\em Telecommunication Systems}, 22(1):267--280, 2003.
+
+\bibitem{Mao2007}
+G.~Mao, B.~Fidan, and B.D.O. Anderson.
+\newblock Wireless sensor network localization techniques.
+\newblock {\em Computer Networks}, 51(10):2529 -- 2553, 2007.
+
+\bibitem{Biswas}
+P.~Biswas, T.C. Liang, T.C. Wang, and Y.~Ye.
+\newblock Semidefinite programming based algorithms for sensor network
+  localization.
+\newblock {\em ACM Transactions on Sensor Networks}, 2:2006, 2006.
+
+\bibitem{Shang:2003}
+Y.~Shang, W.~Ruml, Y.~Zhang, and M.P.J. Fromherz.
+\newblock Localization from mere connectivity.
+\newblock In {\em Proceedings of the 4th ACM international symposium on Mobile
+  ad hoc networking \& computing}, MobiHoc '03, pages 201--212, New York, NY,
+  USA, 2003. ACM.
+
+\end{thebibliography}
