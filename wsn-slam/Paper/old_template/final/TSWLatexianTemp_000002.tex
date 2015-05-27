@@ -51,7 +51,7 @@
 \address{Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ 07030, USA.}
 
 \address{$^b$ School of Computer Science, Anhui University of Technology, Ma'anshan, Anhui, China.}
- 
+
 
 
 
@@ -422,12 +422,12 @@ Apparently, the function $f_{ij}(x_i, x_j)=(x_i-x_j)^T(x_i-x_j)-R^2$ is convex f
 \end{proof}
 \section{Hardware Implementation of the Neural Network}\label{hardwareee}
 The neural network is composed of many modules, each of which is associated with a blind sensor node in the network. The modules interact with their neighbors and all the modules together perform the localization task and solve the problem (\ref{wsnm}). Different from traditional iterative methods for localization of WSNs, which run an algorithm in series, the proposed neural network can be implemented in analog circuits and accordingly processes signals in parallel and solve the problem in real time. As an example, Fig. $1$ sketches the implementation architecture with analog devices of the neural module associated with the first node (i.e., $i=1$), where $j1$, $j2$, ..., $jk$ denote the neighbors of the first node. From Fig. $1$, we can see that summators, multipliers, linear amplifiers, nonlinear amplifiers (for the implementation of the function $g(\cdot)$) and integrators are employed in the implementation. The neural module gets input from its neighbor nodes and outputs its own position estimation. Equipped with such a hardware module, sensor nodes are able to localize themselves with proximity information.
-\begin{figure*}[!t]%\centering
-\vspace*{-6.85cm}
-\centering
- \hspace*{-2.3cm}\includegraphics[width=0.8\textwidth,height=1.2\textwidth,bb=0 0 700 1000]{mydraw1.pdf}
-\caption{Analog circuit architecture of a module in the proposed neural network.}\label{architecture}
-\end{figure*}%\vspace*{-2.85cm}
+%\begin{figure*}[!t]%\centering
+%\vspace*{-6.85cm}
+%\centering
+% \hspace*{-2.3cm}\includegraphics[width=0.8\textwidth,height=1.2\textwidth,bb=0 0 700 1000]{mydraw1.pdf}
+%\caption{Analog circuit architecture of a module in the proposed neural network.}\label{architecture}
+%\end{figure*}%\vspace*{-2.85cm}
 
 
 On the complexity of the proposed approach, we have the following remark.

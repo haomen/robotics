@@ -9,8 +9,7 @@
 
 function solvedNodes=wsnSolver(nodes,nn,nm)
     solvedNodes=[];
-    lamda=[];
-    u=[];
+    
 %     parameters definitions for solver
     delta=5;             %anglular measurement error 5 degree
     eta=0.05;           %distance error 5%
