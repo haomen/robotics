@@ -1,19 +1,12 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.11)  26 MAY 2015 23:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  2 JUN 2015 23:20
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **bare_jrnl.tex
-(C:\Users\hao\Desktop\robotics\wsn-slam\Paper\IEEEtran\bare_jrnl.tex
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-(C:\Users\hao\Desktop\robotics\wsn-slam\Paper\IEEEtran\IEEEtran.cls
+(./bare_jrnl.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(./IEEEtran.cls
 Document Class: IEEEtran 2014/09/17 V1.8a by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
@@ -26,7 +19,7 @@ Document Class: IEEEtran 2014/09/17 V1.8a by Michael Shell
 \@IEEEtrantmptoksA=\toks14
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 458.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 -- Using 8.5in x 11in (letter) paper.
@@ -119,7 +112,9 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \@IEEEtmpitemindent=\dimen124
 \c@IEEEbiography=\count93
 \@IEEEtranrubishbin=\box27
-) (C:\Users\hao\Desktop\robotics\wsn-slam\Paper\IEEEtran\bare_jrnl.aux)
+) (./bare_jrnl.aux)
+\openout1 = `bare_jrnl.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 359.
 LaTeX Font Info:    ... okay on input line 359.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 359.
@@ -135,39 +130,35 @@ LaTeX Font Info:    ... okay on input line 359.
 
 -- Lines per column: 58 (exact).
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 446.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 446.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 446.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 446.
-LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 483.
 LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 483.
+LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 672.
-[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
-
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 672.
+[1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-(C:\Users\hao\Desktop\robotics\wsn-slam\Paper\IEEEtran\bare_jrnl.aux) ) 
+(./bare_jrnl.aux) ) 
 Here is how much of TeX's memory you used:
- 1045 strings out of 493921
- 19224 string characters out of 3147288
- 70003 words of memory out of 3000000
- 4393 multiletter control sequences out of 15000+200000
- 45654 words of font info for 82 fonts, out of 3000000 for 9000
- 844 hyphenation exceptions out of 8191
- 26i,8n,28p,205b,208s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Prog
-ram Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2
-.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
-w/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bare_jrnl.pdf (1 page, 54895 bytes).
+ 1033 strings out of 493117
+ 18701 string characters out of 6135433
+ 74878 words of memory out of 5000000
+ 4555 multiletter control sequences out of 15000+600000
+ 43116 words of font info for 77 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 26i,8n,28p,568b,208s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.
+enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on bare_jrnl.pdf (1 page, 53669 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
+ 25 PDF objects out of 1000 (max. 8388607)
+ 17 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
